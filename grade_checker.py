@@ -42,3 +42,48 @@ dasteye moshakhasi baraye adade mojod dar ebteda va entehaye baze moshakhas
 nemood.
 
 """ 
+
+
+
+"""
+
+khoroji chenin ast:
+  
+%runfile F:/python/3_class/session03/grade_checker.py --wdir
+please enter your grade between (0-20) :14
+Your grade is C
+
+%runfile F:/python/3_class/session03/grade_checker.py --wdir
+please enter your grade between (0-20) :18
+Your grade is A
+
+%runfile F:/python/3_class/session03/grade_checker.py --wdir
+please enter your grade between (0-20) :12
+Your grade is D
+
+%runfile F:/python/3_class/session03/grade_checker.py --wdir
+please enter your grade between (0-20) :17
+Your grade is B    
+  
+    
+  
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

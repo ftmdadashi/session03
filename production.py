@@ -45,3 +45,46 @@ else :
     else :
         print("block shodid")
     
+
+
+
+"""
+
+khoroji chenin ast:
+    
+%runfile F:/python/3_class/session03/production.py --wdir
+Please enter your product name :KAFSH
+Please enter your produt price :12000
+Please enter your product discount code :Z12
+Ghalat zadid
+-----------Yekbare digar emtehan konid---------------- 
+Please enter your product discount code :Z14
+block shodid
+
+%runfile F:/python/3_class/session03/production.py --wdir
+Please enter your product name :kafsh
+Please enter your produt price :12000
+Please enter your product discount code :z12
+Ghalat zadid
+-----------Yekbare digar emtehan konid---------------- 
+Please enter your product discount code :z14
+Your kafsh finall price is : 9600.0
+
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

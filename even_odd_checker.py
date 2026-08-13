@@ -23,3 +23,20 @@ banabar in agar adade made nazar ra be 2 taghsim konim bayad
 baghimande sahih dashte bashad, va dar gheir in sorat fard ast.
 
 """
+
+
+
+
+"""
+
+khoroji chenin ast:
+    
+%runfile F:/python/3_class/session03/even_odd_checker.py --wdir
+Hello, please enter your number for parity checking :52
+number 52 is even
+
+%runfile F:/python/3_class/session03/even_odd_checker.py --wdir
+Hello, please enter your number for parity checking :31
+number 31 is odd
+    
+"""

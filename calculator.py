@@ -26,3 +26,37 @@ elif operation == "*" :
     
 else :
     print("ERROR")
+
+
+
+"""
+
+khoroji chenin ast :
+    
+
+%runfile F:/python/3_class/session03/calculator.py --wdir
+please enter your first number:32
+please enter your operation just between (+ - / *) :+
+please enter your second number:32
+jam : 64.0
+
+%runfile F:/python/3_class/session03/calculator.py --wdir
+please enter your first number:24
+please enter your operation just between (+ - / *) :-
+please enter your second number:54
+tafrigh : -30.0
+
+%runfile F:/python/3_class/session03/calculator.py --wdir
+please enter your first number:54
+please enter your operation just between (+ - / *) :/
+please enter your second number:2
+taghsim : 27.0
+
+%runfile F:/python/3_class/session03/calculator.py --wdir
+please enter your first number:32
+please enter your operation just between (+ - / *) :*
+please enter your second number:3
+zarb: 96.0
+
+
+"""
